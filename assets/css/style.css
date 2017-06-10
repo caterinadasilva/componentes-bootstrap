@@ -1,0 +1,54 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.carousel {
+	width: 100%;
+}
+.carousel-inner>.item>img {
+    max-height: 85vh;
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.navbar-default {
+	margin: 0;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+	border-color: #fff;
+}
+.tour {
+	padding: 50px;
+}
+h2 {
+	padding: 20px;
+}
+#testimonios {
+	padding: 80px;
+}
+#contacto {
+	background-color: #fa8072;
+}
+#contacto h2 {
+	color: #fff;
+}
+label {
+	color: #fff;
+}
+.fa {
+	font-size: 30px;
+	padding: 10px;
+	text-align: center;
+}
+.fa:hover {
+	color: #fa8072;
+}
+form {
+	padding: 60px;
+}
+footer {
+	padding: 20px;
+	background: #f8f8f8;
+}
